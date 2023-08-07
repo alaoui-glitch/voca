@@ -1,0 +1,23 @@
+[
+  {
+    "word": "run",
+    "definition": "Move swiftly on foot so that both or all feet are not on the ground during each stride.",
+    "ipa_pronunciation": "/rʌn/",
+    "synonyms": ["jog", "sprint", "dash", "gallop", "hasten"],
+    "antonyms": ["walk", "stroll", "crawl", "saunter", "amble"]
+  },
+  {
+    "word": "jump",
+    "definition": "Push oneself off a surface and into the air by using the muscles in one's legs and feet.",
+    "ipa_pronunciation": "/dʒʌmp/",
+    "synonyms": ["leap", "hop", "spring", "bound"],
+    "antonyms": ["fall", "descend", "drop", "dive"]
+  },
+  {
+    "word": "swim",
+    "definition": "Propel the body through water by using the limbs.",
+    "ipa_pronunciation": "/swɪm/",
+    "synonyms": ["dive", "float", "paddle", "plunge"],
+    "antonyms": ["sink", "drown", "submerge", "immersed"]
+  }
+]
